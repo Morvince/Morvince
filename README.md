@@ -9,8 +9,8 @@ Je suis un développeur passionné avec une experience sur de multiple langages.
 
 ## Mes compétences
 
-- Langages de programmation : C, C++, Python, JavaScript, Typescript, Haskell, PHP, Bash/Powershell.
-- Technologies Web : HTML, CSS, React, Node.js, Astro, Tailwind, Symfony
+- Langages de programmation : C, C++, Python, JavaScript, Typescript, Haskell, PHP, Bash/Powershell, Rust, Windev.
+- Technologies Web : HTML, CSS, React, Node.js, Astro, Tailwind, Symfony, Angular
 - Intelligence Artificielle : Pandas, PyTorch
 - Cybersécurité : Pentest, OSINT, quelques rooms sur TryHackMe, root.me (Morvince)
 - Bases de données : MySQL, MariaDB
